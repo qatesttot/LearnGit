@@ -10,7 +10,7 @@ keep tracking who made changes in tracked code.
 to collaborate on code.
 Its goals include speed, data integrity; and support for distributed, non-linear workflows. 
 
-GitHub is UI based Git repository hosting service with source code management system. GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
+GitHub is UI based Git repository hosting service with a source code management system. GitHub is the largest host of source code in the world; and has been owned by Microsoft since 2018.
 
 Distributed Version Control Systems: 
 Distributed version control systems contain multiple repositories. Each user can make their own repository and working copy. Just committing your changes will not give others access to your changes. This is because commit will reflect those changes in your local repository and you need to push them in order to make them visible on the central repository. Similarly, When you update, you do not get others’ changes unless you have first pulled those changes into your repository. 
@@ -24,7 +24,8 @@ To make your changes visible to others, 4 things are required:
 
 Purpose of Version Control: 
 
-    Multiple members can work simultaneously/together on a one project. Everyone works on and edits their own copy of the files and it is up to them when they wish to share the changes made by them with the team.
+    Multiple members can work simultaneously/together on one project. Everyone works on and edits their own copy of the files and it is up to them when they wish to share the changes made by them with the team.
     It also enables one person to use multiple computers to work on a project, so it is valuable even if you are working by yourself.
     It integrates the work that is done simultaneously by any members of the team. In some rare cases, when conflicting edits are made by two people to the same line of a file, then human assistance is requested by the version control system in deciding what should be done.
-    Version control provides access to the old versions of a project. This is insurance against computer crashes or data loss. If anything wrong made in the code, we can easily roll back to a previous version. It is also possible to undo specific edits that too without losing the work done in the meanwhile. It can be easy to track when, why, and by whom any part of a file was edited.
+    Version control provides access to the old versions of a project. This is insurance against computer crashes or data loss. If anything is wrong made in the code, we can easily roll back to a previous version. It is also possible to undo specific edits that too without losing the work done in the meanwhile. It can be easy to track when, why, and by whom any part of a file was edited.
+But what if you just want to update your local repository, without going through all those steps?
