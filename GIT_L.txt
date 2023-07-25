@@ -1,6 +1,6 @@
  = G I T & GitHub = 
 
-Git is an open-source distributed version control system where one team can track the code and work together at the same workspace without affecting any one's work.
+Git is an open-source distributed version control system where one team can track the code and work together at the same workspace without affecting anyone's work.
 '
 It is used to:
 control version of code.
@@ -24,7 +24,7 @@ To make your changes visible to others, 4 things are required:
 
 Purpose of Version Control: 
 
-    Multiple members can work simultaneously/togather on a one project. Everyone works on and edits their own copy of the files and it is up to them when they wish to share the changes made by them with the team.
+    Multiple members can work simultaneously/together on a one project. Everyone works on and edits their own copy of the files and it is up to them when they wish to share the changes made by them with the team.
     It also enables one person to use multiple computers to work on a project, so it is valuable even if you are working by yourself.
     It integrates the work that is done simultaneously by any members of the team. In some rare cases, when conflicting edits are made by two people to the same line of a file, then human assistance is requested by the version control system in deciding what should be done.
-    Version control provides access to the old versions of a project. This is insurance against computer crashes or data loss. If any thinkg wrong made in code, we can easily roll back to a previous version. It is also possible to undo specific edits that too without losing the work done in the meanwhile. It can be easily to track when, why, and by whom any part of a file was edited.
+    Version control provides access to the old versions of a project. This is insurance against computer crashes or data loss. If anything wrong made in the code, we can easily roll back to a previous version. It is also possible to undo specific edits that too without losing the work done in the meanwhile. It can be easy to track when, why, and by whom any part of a file was edited.
