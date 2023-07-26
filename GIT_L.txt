@@ -1,4 +1,5 @@
  = G I T & GitHub = 
+First Line to added to this file to Push on GitHub
 
 Git is an open-source distributed version control system where one team can track the code and work together at the same workspace without affecting anyone's work.
 '
@@ -13,6 +14,8 @@ Its goals include speed, data integrity; and support for distributed, non-linear
 GitHub is UI based Git repository hosting service with a source code management system. GitHub is the largest host of source code in the world; and has been owned by Microsoft since 2018.
 
 Distributed Version Control Systems: 
+
+
 Distributed version control systems contain multiple repositories. Each user can make their own repository and working copy. Just committing your changes will not give others access to your changes. This is because commit will reflect those changes in your local repository and you need to push them in order to make them visible on the central repository. Similarly, When you update, you do not get others’ changes unless you have first pulled those changes into your repository. 
 
 To make your changes visible to others, 4 things are required:  
